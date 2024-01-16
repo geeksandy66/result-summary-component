@@ -40,9 +40,9 @@ body{
 .left-side{
     flex: 1;
     background-image: linear-gradient(hsl(252, 100%, 63%), hsl(241, 76%, 53%));
-    height: 65vh;
+    height: 100%;
     text-align: center;
-    border-radius: 8px;
+    border-radius: 2rem;
 }
 
 .result-head{
@@ -84,7 +84,7 @@ body{
 
 
 .right-side{
-    height: 65vh;
+    height: 100%;
     flex: 1;
     padding-left: 3rem;
     padding-top: 1.5rem;
